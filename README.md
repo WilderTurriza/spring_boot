@@ -1,3 +1,9 @@
+# Spring boot
+
+## Exposición
+
+[Spring boot.pdf](https://github.com/WilberthKantun/spring_boot/files/15079859/Spring.boot.pdf)
+
 # API Rest con Spring Boot
 Práctica para crear una API Rest con Java Spring Boot
 
@@ -20,3 +26,7 @@ Práctica para crear una API Rest con Java Spring Boot
 - Abrir el proyecto usando **Intellij IDEA**.
 - En **File > Project Structure**, seleccionar **JDK: 17** y **Language Level: 17**
 - Aplicar cambios de la configuración del proyecto
+
+## Integrantes
+- Wilberth Kantun Lizama
+- Wilder Turriza Poot
