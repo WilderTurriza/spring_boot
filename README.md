@@ -27,6 +27,16 @@ Práctica para crear una API Rest con Java Spring Boot
 - En **File > Project Structure**, seleccionar **JDK: 17** y **Language Level: 17**
 - Aplicar cambios de la configuración del proyecto
 
+## Resultados de la práctica
+### Aplicación corriendo
+
+
+### Crear orden (Post)
+
+
+### Obtener producto (Get)
+
+
 ## Integrantes
 - Wilberth Kantun Lizama
 - Wilder Turriza Poot
