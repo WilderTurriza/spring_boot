@@ -29,6 +29,7 @@ Práctica para crear una API Rest con Java Spring Boot
 
 ## Resultados de la práctica
 ### Aplicación corriendo
+![programa corriendo](https://github.com/WilderTurriza/spring_boot/assets/73006726/229cb4c1-51e5-47a0-aa65-49f2dcf9322f)
 
 
 ### Crear orden (Post)
